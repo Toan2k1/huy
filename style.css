@@ -1,0 +1,11 @@
+.box1{
+width: 100px;
+height: 100px;
+background-color: brown;
+border-radius: 10px;
+}
+.text1{
+color: rgb(158, 158, 181);
+font-weight: 900;
+font-size: 20px;
+}
